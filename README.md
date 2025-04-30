@@ -1,13 +1,5 @@
 <h1 align="center">Olá! 👋 Eu sou o Henrique</h1>
 
-<p align="center">
-  💻 Estudante de Sistemas de Informação <br>
-  🔍 Em busca do meu primeiro estágio na área de TI <br>
-  🚀 Apaixonado por lógica, estrutura de dados e desenvolvimento em C e Java
-</p>
-
----
-
 ### 👨‍💻 Sobre mim
 
 - 🎓 Atualmente no 3º semestre da graduação em TI
