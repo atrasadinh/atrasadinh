@@ -1,7 +1,7 @@
-<h1 align="center">Olá! 👋 Eu sou o @atrasadinh</h1>
+<h1 align="center">Olá! 👋 Eu sou o Henrique</h1>
 
 <p align="center">
-  💻 Estudante de Tecnologia da Informação <br>
+  💻 Estudante de Sistemas de Informação <br>
   🔍 Em busca do meu primeiro estágio na área de TI <br>
   🚀 Apaixonado por lógica, estrutura de dados e desenvolvimento em C e Java
 </p>
@@ -34,19 +34,12 @@
 
 ---
 
-### 📬 Onde me encontrar
-
-- 📧 Email: _[seu@email.com]_  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario/) (se tiver, recomendo colocar)
-
 ### 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atrasadinh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atrasadinh&layout=compact&theme=radical)
 
----
+### 📬 Onde me encontrar
 
-### 🌐 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/atrasadinho)
-
+- 📧 Email: _[seu@email.com]_  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario/) (se tiver, recomendo colocar)
