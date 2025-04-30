@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Henrique!
 
-🎓 Estudante de [Seu curso] na [Sua universidade]  
+🎓 Estudante de Sistemas de Informação na Unirio  
 💻 Aprendendo C, Java e Estrutura de Dados  
 🎯 Buscando meu primeiro estágio na área de tecnologia  
 📚 Apaixonado por lógica de programação e desenvolvimento de soluções
