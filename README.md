@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Henrique Viana</h1>
 
 <p align="center">
-  💻 Estudante de Tecnologia da Informação <br>
+  💻 Estudante de Sistemas de Informação <br>
   🔍 Em busca do meu primeiro estágio na área de TI <br>
   🚀 Apaixonado por lógica, estrutura de dados e desenvolvimento em C e Java
 </p>
