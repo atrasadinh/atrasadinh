@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Atualmente no 3º semestre da graduação em TI
+- 🎓 Atualmente no 3º semestre da graduação em SI
 - 🧠 Estudando programação em C, Java e estruturas de dados
 - 💡 Gosto de resolver problemas práticos com código simples e funcional
 - ✍️ Trabalhando em pequenos projetos pessoais e acadêmicos
