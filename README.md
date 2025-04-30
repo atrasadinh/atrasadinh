@@ -1,40 +1,28 @@
-<h1 align="center">Olá! 👋 Eu sou o Henrique Viana</h1>
+## 👋 Olá, eu sou o Henrique!
 
-<p align="center">
-  💻 Estudante de Sistemas de Informação <br>
-  🔍 Em busca do meu primeiro estágio na área de TI <br>
-  🚀 Apaixonado por lógica, estrutura de dados e desenvolvimento em C e Java
-</p>
-
----
-
-### 👨‍💻 Sobre mim
-
-- 🎓 Atualmente no 3º semestre da graduação em TI
-- 🧠 Estudando programação em C, Java e estruturas de dados
-- 💡 Gosto de resolver problemas práticos com código simples e funcional
-- ✍️ Trabalhando em pequenos projetos pessoais e acadêmicos
-- 📚 Sempre buscando aprender e evoluir
+🎓 Estudante de [Seu curso] na [Sua universidade]  
+💻 Aprendendo C, Java e Estrutura de Dados  
+🎯 Buscando meu primeiro estágio na área de tecnologia  
+📚 Apaixonado por lógica de programação e desenvolvimento de soluções
 
 ---
 
-### 🚀 Tecnologias que estou usando
+### 🛠️ Tecnologias & Ferramentas
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📌 Projetos em destaque
+### 📊 Estatísticas do GitHub
 
-- 🔹 [Consulta](https://github.com/atrasadinh/Consulta): Sistema de agendamento de consultas médicas em C
-- 🔹 [TopSetProgresso](https://github.com/atrasadinh/TopSetProgresso): Simulador de progresso de carga em academia, feito em C
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atrasadinh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atrasadinh&layout=compact&theme=radical)
 
 ---
 
-### 📬 Onde me encontrar
+### 🌐 Contato
 
-- 📧 Email: atrasadinho91@gmail.com
-- 💼 [LinkedIn] (www.linkedin.com/in/atrasadinho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario)
