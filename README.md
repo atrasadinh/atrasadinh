@@ -36,5 +36,5 @@
 
 ### 📬 Onde me encontrar
 
-- 📧 Email: _[seu@email.com]_  
-- 💼 [LinkedIn](https://www.linkedin)
+- 📧 Email:atrasadinho91@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/atrasadinho)
