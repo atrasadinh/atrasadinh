@@ -27,11 +27,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atrasadinh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atrasadinh&layout=compact&theme=radical)
-
 ### 📬 Onde me encontrar
 
 - 📧 Email: atrasadinho91@gmail.com
