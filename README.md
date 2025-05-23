@@ -30,4 +30,4 @@
 ### 📬 Onde me encontrar
 
 - 📧 Email: atrasadinho91@gmail.com
-- 💼 [LinkedIn] (www.linkedin.com/in/atrasadinho) 
+- 💼 LinkedIn: www.linkedin.com/in/atrasadinho
