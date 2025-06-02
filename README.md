@@ -3,7 +3,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Atualmente no 3º periodo da graduação em SI
-- 🧠 Estudando programação em C, Java e estruturas de dados
+- 🧠 Estudando programação em C, Java, Python, estruturas de dados e Infraestrutura
 - 💡 Gosto de resolver problemas práticos com código simples e funcional
 - ✍️ Trabalhando em pequenos projetos pessoais e acadêmicos
 - 📚 Sempre buscando aprender e evoluir
