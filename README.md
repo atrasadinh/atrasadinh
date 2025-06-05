@@ -20,9 +20,9 @@
 
 ### 📌 Projetos em destaque
 
-- 🔹 [sistema-b-sico-de-biblioteca](https://github.com/atrasadinh/sistema-b-sico-de-biblioteca) : Sistema de biblioteca em C
-- 🔹 [Consulta](https://github.com/atrasadinh/Consulta): Sistema de agendamento de consultas médicas em C
-- 🔹 [TopSetProgresso](https://github.com/atrasadinh/TopSetProgresso): Simulador de progresso de carga em academia, feito em C
+- 🔹 
+- 🔹 
+- 🔹 
 
 ---
 
