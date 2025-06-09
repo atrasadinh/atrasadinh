@@ -4,8 +4,7 @@
 
 - 🎓 Atualmente no 3º periodo da graduação em SI
 - 🧠 Estudando programação em C, Java, Python 
-- ✍️ Trabalhando em pequenos projetos pessoais e acadêmicos
-- 📚 Sempre buscando aprender e evoluir
+- ✍️ Postando projetos acadêmicos
 
 ---
 
@@ -20,7 +19,7 @@
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Ultimos projetos 
 
 - 🔹 
 - 🔹 
